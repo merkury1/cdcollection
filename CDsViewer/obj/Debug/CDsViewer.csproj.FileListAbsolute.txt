@@ -1,0 +1,15 @@
+C:\Users\mssyp\source\repos\CDsCollection\CDsViewer\bin\Debug\CDsViewer.exe.config
+C:\Users\mssyp\source\repos\CDsCollection\CDsViewer\bin\Debug\CDsViewer.exe
+C:\Users\mssyp\source\repos\CDsCollection\CDsViewer\bin\Debug\CDsViewer.pdb
+C:\Users\mssyp\source\repos\CDsCollection\CDsViewer\obj\Debug\MainWindow.g.cs
+C:\Users\mssyp\source\repos\CDsCollection\CDsViewer\obj\Debug\App.g.cs
+C:\Users\mssyp\source\repos\CDsCollection\CDsViewer\obj\Debug\CDsViewer_MarkupCompile.cache
+C:\Users\mssyp\source\repos\CDsCollection\CDsViewer\obj\Debug\CDsViewer_MarkupCompile.lref
+C:\Users\mssyp\source\repos\CDsCollection\CDsViewer\obj\Debug\MainWindow.baml
+C:\Users\mssyp\source\repos\CDsCollection\CDsViewer\obj\Debug\CDsViewer.g.resources
+C:\Users\mssyp\source\repos\CDsCollection\CDsViewer\obj\Debug\CDsViewer.Properties.Resources.resources
+C:\Users\mssyp\source\repos\CDsCollection\CDsViewer\obj\Debug\CDsViewer.csproj.GenerateResource.cache
+C:\Users\mssyp\source\repos\CDsCollection\CDsViewer\obj\Debug\CDsViewer.csproj.CoreCompileInputs.cache
+C:\Users\mssyp\source\repos\CDsCollection\CDsViewer\obj\Debug\CDsViewer.exe
+C:\Users\mssyp\source\repos\CDsCollection\CDsViewer\obj\Debug\CDsViewer.pdb
+C:\Users\mssyp\source\repos\CDsCollection\CDsViewer\obj\Debug\CDsViewer.csprojAssemblyReference.cache

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://desktop-qpkdl3s:8100/Service.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/CDsCollection.Model" />
+  <xs:element name="GetCDCollection">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetCDCollectionResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/CDsCollection.Model" minOccurs="0" name="GetCDCollectionResult" nillable="true" type="q1:ArrayOfCD" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,6 @@
+C:\Users\mssyp\source\repos\CDsCollection\CDsCollection\bin\Debug\CDsCollection.dll.config
+C:\Users\mssyp\source\repos\CDsCollection\CDsCollection\bin\Debug\CDsCollection.dll
+C:\Users\mssyp\source\repos\CDsCollection\CDsCollection\bin\Debug\CDsCollection.pdb
+C:\Users\mssyp\source\repos\CDsCollection\CDsCollection\obj\Debug\CDsCollection.csproj.CoreCompileInputs.cache
+C:\Users\mssyp\source\repos\CDsCollection\CDsCollection\obj\Debug\CDsCollection.dll
+C:\Users\mssyp\source\repos\CDsCollection\CDsCollection\obj\Debug\CDsCollection.pdb
